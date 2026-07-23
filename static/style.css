@@ -162,6 +162,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   letter-spacing: 0.3px;
 }
 
+.table-melhor-rodada {
+  background: rgba(245, 158, 11, 0.08) !important;
+}
+
 .badge-ev-positivo {
   background: linear-gradient(135deg, rgba(16, 185, 129, 0.3), rgba(5, 150, 105, 0.4));
   border: 1px solid #10b981;
