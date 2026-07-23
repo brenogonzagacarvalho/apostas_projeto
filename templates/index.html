@@ -88,7 +88,7 @@
                     <!-- Coluna Melhor da Rodada -->
                     <td>
                       {% if j.is_melhor_da_rodada %}
-                        <span class="badge bg-warning text-dark font-monospace fw-bold"><i class="bi bi-star-fill me-1"></i> MELHOR DA RODADA</span>
+                        <span class="badge badge-melhor-rodada"><i class="bi bi-star-fill me-1"></i> MELHOR DA RODADA</span>
                       {% else %}
                         <span class="text-secondary small">-</span>
                       {% endif %}
@@ -115,15 +115,16 @@
                     </td>
                     <td>
                       {% if j.ev_1.tem_valor %}
-                        <span class="badge bg-success text-dark fs-6">+EV (1): +{{ j.ev_1.ev_pct }}%</span>
+                        <span class="badge badge-ev-positivo">+EV (1): +{{ j.ev_1.ev_pct }}%</span>
                       {% elif j.ev_2.tem_valor %}
-                        <span class="badge bg-success text-dark fs-6">+EV (2): +{{ j.ev_2.ev_pct }}%</span>
+                        <span class="badge badge-ev-positivo">+EV (2): +{{ j.ev_2.ev_pct }}%</span>
                       {% elif j.ev_x.tem_valor %}
-                        <span class="badge bg-success text-dark fs-6">+EV (X): +{{ j.ev_x.ev_pct }}%</span>
+                        <span class="badge badge-ev-positivo">+EV (X): +{{ j.ev_x.ev_pct }}%</span>
                       {% else %}
                         <span class="badge bg-secondary text-muted">Sem Valor</span>
                       {% endif %}
                     </td>
+
                     <td class="small">
                       <span class="badge bg-warning-subtle text-warning">Over 2.5: {{ j.odds_gols.over_25.odd }}</span>
                     </td>
