@@ -1,0 +1,178 @@
+{
+    "Corinthians": {
+        "gols_marcados_casa": 16,
+        "gols_sofridos_casa": 7,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 10,
+        "gols_sofridos_fora": 16,
+        "jogos_fora": 10
+    },
+    "Remo": {
+        "gols_marcados_casa": 14,
+        "gols_sofridos_casa": 10,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 8,
+        "gols_sofridos_fora": 18,
+        "jogos_fora": 10
+    },
+    "Botafogo": {
+        "gols_marcados_casa": 19,
+        "gols_sofridos_casa": 8,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 14,
+        "gols_sofridos_fora": 9,
+        "jogos_fora": 9
+    },
+    "Botafogo-RJ": {
+        "gols_marcados_casa": 19,
+        "gols_sofridos_casa": 8,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 14,
+        "gols_sofridos_fora": 9,
+        "jogos_fora": 9
+    },
+    "Vitória": {
+        "gols_marcados_casa": 12,
+        "gols_sofridos_casa": 12,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 8,
+        "gols_sofridos_fora": 18,
+        "jogos_fora": 10
+    },
+    "Flamengo": {
+        "gols_marcados_casa": 18,
+        "gols_sofridos_casa": 5,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 16,
+        "gols_sofridos_fora": 8,
+        "jogos_fora": 9
+    },
+    "Palmeiras": {
+        "gols_marcados_casa": 20,
+        "gols_sofridos_casa": 6,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 15,
+        "gols_sofridos_fora": 7,
+        "jogos_fora": 9
+    },
+    "São Paulo": {
+        "gols_marcados_casa": 18,
+        "gols_sofridos_casa": 7,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 11,
+        "gols_sofridos_fora": 12,
+        "jogos_fora": 9
+    },
+    "Fluminense": {
+        "gols_marcados_casa": 16,
+        "gols_sofridos_casa": 9,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 11,
+        "gols_sofridos_fora": 13,
+        "jogos_fora": 9
+    },
+    "Cruzeiro": {
+        "gols_marcados_casa": 16,
+        "gols_sofridos_casa": 7,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 11,
+        "gols_sofridos_fora": 14,
+        "jogos_fora": 10
+    },
+    "Vasco": {
+        "gols_marcados_casa": 15,
+        "gols_sofridos_casa": 11,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 9,
+        "gols_sofridos_fora": 16,
+        "jogos_fora": 9
+    },
+    "Atlético-MG": {
+        "gols_marcados_casa": 14,
+        "gols_sofridos_casa": 10,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 11,
+        "gols_sofridos_fora": 16,
+        "jogos_fora": 10
+    },
+    "Grêmio": {
+        "gols_marcados_casa": 14,
+        "gols_sofridos_casa": 10,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 10,
+        "gols_sofridos_fora": 15,
+        "jogos_fora": 10
+    },
+    "Bahia": {
+        "gols_marcados_casa": 18,
+        "gols_sofridos_casa": 9,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 10,
+        "gols_sofridos_fora": 15,
+        "jogos_fora": 9
+    },
+    "Internacional": {
+        "gols_marcados_casa": 16,
+        "gols_sofridos_casa": 6,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 13,
+        "gols_sofridos_fora": 10,
+        "jogos_fora": 10
+    },
+    "Fortaleza": {
+        "gols_marcados_casa": 17,
+        "gols_sofridos_casa": 6,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 12,
+        "gols_sofridos_fora": 10,
+        "jogos_fora": 9
+    },
+    "Athletico-PR": {
+        "gols_marcados_casa": 17,
+        "gols_sofridos_casa": 8,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 12,
+        "gols_sofridos_fora": 12,
+        "jogos_fora": 9
+    },
+    "RB Bragantino": {
+        "gols_marcados_casa": 16,
+        "gols_sofridos_casa": 10,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 11,
+        "gols_sofridos_fora": 13,
+        "jogos_fora": 9
+    },
+    "Santos": {
+        "gols_marcados_casa": 13,
+        "gols_sofridos_casa": 11,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 9,
+        "gols_sofridos_fora": 17,
+        "jogos_fora": 9
+    },
+    "Juventude": {
+        "gols_marcados_casa": 13,
+        "gols_sofridos_casa": 13,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 7,
+        "gols_sofridos_fora": 19,
+        "jogos_fora": 9
+    },
+    "Criciúma": {
+        "gols_marcados_casa": 11,
+        "gols_sofridos_casa": 13,
+        "jogos_casa": 9,
+        "gols_marcados_fora": 7,
+        "gols_sofridos_fora": 19,
+        "jogos_fora": 10
+    },
+    "Cuiabá": {
+        "gols_marcados_casa": 9,
+        "gols_sofridos_casa": 15,
+        "jogos_casa": 10,
+        "gols_marcados_fora": 6,
+        "gols_sofridos_fora": 18,
+        "jogos_fora": 9
+    }
+}
